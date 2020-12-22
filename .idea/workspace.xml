@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a10d2da-daa2-46dc-b300-b35338cac6d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m0ImYI9KBQyJIiKZAdtungRayf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a10d2da-daa2-46dc-b300-b35338cac6d1" name="Default Changelist" comment="" />
+      <created>1608624240594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608624240594</updated>
+      <workItem from="1608624241867" duration="246000" />
+    </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1608624288630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608624288630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="24" key="CommitChangelistDialog2" timestamp="1608624563165">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="387" y="24" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1608624563165" />
+    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1608624510104">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1608624510104" />
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2" timestamp="1608624294236">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="392" y="167" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1608624294236" />
+    <state x="487" y="225" key="git4idea.merge.GitPullDialog" timestamp="1608624536423">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="487" y="225" key="git4idea.merge.GitPullDialog/0.0.1600.870@0.0.1600.870" timestamp="1608624536423" />
+  </component>
+</project>
